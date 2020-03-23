@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">srmaio</string>i
+    <array name="Type">
+        <item>North Indian</item>
+        <item>south Indian</item>
+    </array>
+
+</resources>

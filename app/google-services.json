@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578588880981",
+    "firebase_url": "https://srmaio5.firebaseio.com",
+    "project_id": "srmaio5",
+    "storage_bucket": "srmaio5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578588880981:android:a79558fdf545eab58064dc",
+        "android_client_info": {
+          "package_name": "com.example.srmaio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578588880981-vcisopeqi6t002a4cnri86cvpvftbltq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srmaio",
+            "certificate_hash": "c656abc61372b8b5c98a3dc780f1977644638198"
+          }
+        },
+        {
+          "client_id": "578588880981-oco6kgv9l9942t7kcmrmegkb1uatt4ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzGpsjG-t_w_R-1HF76FSnrVUbUX3hW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578588880981-oco6kgv9l9942t7kcmrmegkb1uatt4ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

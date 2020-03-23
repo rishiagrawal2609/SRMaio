@@ -34,4 +34,15 @@ Walkthrough video of this page:https://youtu.be/incuV0iAH-c
 #### Why did we use the google form instead of firebase or MySQL to fech data?
 We decided have a project that should be economical and user friendly in all ways. So here we thougth of using google form because our end users did not know the android devlopment or even how to use advanced computer application(cashier or canteen vendors or admin staff). Like today some item in the listed is not avilable so to stop students form ordering that they can easily remove or change the item by themselves no extenal help required.Plus They get Google Analytics with it so that they can know what students like the most and increase their profit and reduce the waste.
 ### Lost and found
-<img src = "
+<img src = "https://drive.google.com/uc?export=view&id=1hgoBhNNRfy88ORvlmJ4y5m1AsSxZX1Bs" height = "600" width = "300"> <br>
+In these section you can report all the things you found any lost thing or you lost in the campus and give your proper details so that admin can easily contact you for the further details.This will be Managed by lost and found team which will comprise of staff members.<br>
+Walkthrough video of this page:https://youtu.be/tlOVTFKjKhQ
+### Cleanliness Report
+<img src = "https://drive.google.com/uc?export=view&id=1ijfQfkwAuWqxVB9Hs04MC2P_WyW0oq22" height = "600" width = "300"> <br>
+In these page if any classroom/lab/any other area is dirty or not cleaned properly can report. For these you need to fill the form and upload the photos. We have added a feedback system so that head admin for cleanilness should know the work is done or not.
+Walkthrough video of this page:https://youtu.be/r77EwW8u0TM
+<br>
+<br>
+<br>
+## Contact
+If you have any concern or suggestion regarding this project, feel free to email me at [rishiagrawal2609@gmail.com](rishiagrawal2609@gmail.com)

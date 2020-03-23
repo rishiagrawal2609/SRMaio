@@ -16,29 +16,29 @@ We decided to create a multiscreen android app which will have a login page and 
 <br>
 Here is the details of all the pages
 ### Login page
-<img src="https://drive.google.com/uc?export=view&id=1iRciSqzFSwwyrQIZRhnlmUyVWnccc2gr" height ="600" width="300"><br>
+<img src="https://drive.google.com/uc?export=view&id=1iRciSqzFSwwyrQIZRhnlmUyVWnccc2gr" height ="300" width="150"><br>
 Login page is simple just add username and password to login.
 #### For this you need to put username as Admin and Password as 1234
 There is also one more feature if you give the wrong password then it will show the number of tries remaining then if you  give 5 tries with wrong password you will not able to login. you have to refesrh the app to login.
 ### Content Page
-<img src="https://drive.google.com/uc?export=view&id=1iNCTlW6mRFqeVW9NNTEORrC0S7sDufGe" height = "600" width = "300"><br>
+<img src="https://drive.google.com/uc?export=view&id=1iNCTlW6mRFqeVW9NNTEORrC0S7sDufGe" height = "300" width = "150"><br>
 This page contains all the contents present in the app and it is uniquely designed. You can tap on any field to vist the respective field.  
 ### Notification
-<img src="https://drive.google.com/uc?export=view&id=1iJfwAKzZSPAzRmbLXhi9raKB19hd1oeJ" height = "600" width = "300"> <br>
+<img src="https://drive.google.com/uc?export=view&id=1iJfwAKzZSPAzRmbLXhi9raKB19hd1oeJ" height = "300" width = "150"> <br>
 In this all the events/workshops/updates of collage is given you can click any one to go to its discriptive details. This will be updated by the app designer.<br>
 Walkthrough video of this page:https://youtu.be/XxqRDUqYZhI
 ### Canteen Orders
-<img src = "https://drive.google.com/uc?export=view&id=1iHwP6OjYODOpYlGjhgbaeteeKhfb8a7c" height = "600" width = "300"> <br>
+<img src = "https://drive.google.com/uc?export=view&id=1iHwP6OjYODOpYlGjhgbaeteeKhfb8a7c" height = "300" width = "150"> <br>
 In this page you can place canteen oders and as we don't have any licenced gateway we introduced new form of payments which will come super handy. In this to make payment you have to upload a screenshot of payment done by UPI/PayTM/any other the cashier will recive your data and the screenshot. As the payment is done the cashier will also get the message.He will verify with the screenshot and if valid then your order will be placed.<br>
 Walkthrough video of this page:https://youtu.be/incuV0iAH-c
 #### Why did we use the google form instead of firebase or MySQL to fech data?
 We decided have a project that should be economical and user friendly in all ways. So here we thougth of using google form because our end users did not know the android devlopment or even how to use advanced computer application(cashier or canteen vendors or admin staff). Like today some item in the listed is not avilable so to stop students form ordering that they can easily remove or change the item by themselves no extenal help required.Plus They get Google Analytics with it so that they can know what students like the most and increase their profit and reduce the waste.
 ### Lost and found
-<img src = "https://drive.google.com/uc?export=view&id=1hgoBhNNRfy88ORvlmJ4y5m1AsSxZX1Bs" height = "600" width = "300"> <br>
+<img src = "https://drive.google.com/uc?export=view&id=1hgoBhNNRfy88ORvlmJ4y5m1AsSxZX1Bs" height = "300" width = "150"> <br>
 In these section you can report all the things you found any lost thing or you lost in the campus and give your proper details so that admin can easily contact you for the further details.This will be Managed by lost and found team which will comprise of staff members.<br>
 Walkthrough video of this page:https://youtu.be/tlOVTFKjKhQ
 ### Cleanliness Report
-<img src = "https://drive.google.com/uc?export=view&id=1ijfQfkwAuWqxVB9Hs04MC2P_WyW0oq22" height = "600" width = "300"> <br>
+<img src = "https://drive.google.com/uc?export=view&id=1ijfQfkwAuWqxVB9Hs04MC2P_WyW0oq22" height = "300" width = "150"> <br>
 In these page if any classroom/lab/any other area is dirty or not cleaned properly can report. For these you need to fill the form and upload the photos. We have added a feedback system so that head admin for cleanilness should know the work is done or not.
 Walkthrough video of this page:https://youtu.be/r77EwW8u0TM
 <br>

@@ -17,4 +17,9 @@ We decided to create a multiscreen android app which will have a login page and 
 Here is the details of all the pages https://drive.google.com/uc?export=view&id=1hX_BOmd8lk6rrRtpZUaoynL8lDHHlTvQ
 ### Login page
 <img src="https://drive.google.com/uc?export=view&id=1iRciSqzFSwwyrQIZRhnlmUyVWnccc2gr" height ="600" width="300"><br>
-<video scr = "https://drive.google.com/uc?export=view&id=1hX_BOmd8lk6rrRtpZUaoynL8lDHHlTvQ">
+Login page is simple just add username and password to login.
+#### For this you need to put username as Admin and Password as 1234
+There is also one more feature if you give the wrong password then it will show the number of tries remaining then if you  give 5 tries with wrong password you will not able to login. you have to refesrh the app to login.
+### Content Page
+<img src="https://drive.google.com/uc?export=view&id=1iNCTlW6mRFqeVW9NNTEORrC0S7sDufGe" height = "600" width = "300"><br>
+This page contains all the contents present in the app and it is uniquely designed. You can tap on any field to vist the respective field.  
